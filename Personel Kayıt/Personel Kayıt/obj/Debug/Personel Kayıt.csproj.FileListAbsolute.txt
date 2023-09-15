@@ -1,0 +1,10 @@
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\bin\Debug\Personel Kayıt.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\bin\Debug\Personel Kayıt.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\bin\Debug\Personel Kayıt.pdb
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\obj\Debug\Personel Kayıt.csproj.AssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\obj\Debug\Personel_Kayıt.Form1.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\obj\Debug\Personel_Kayıt.Properties.Resources.resources
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\obj\Debug\Personel Kayıt.csproj.GenerateResource.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\obj\Debug\Personel Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\obj\Debug\Personel Kayıt.exe
+C:\Users\demir\OneDrive\Masaüstü\Udemy Projelerim\Personel Kayıt\Personel Kayıt\obj\Debug\Personel Kayıt.pdb
